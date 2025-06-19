@@ -1,4 +1,5 @@
-# VoimaWindowsTheme  
+# VoimaWindowsTheme 
+**ATTENTION! I TESTED THIS THEME ONLY ON WINDOWS 10! IF YOU HAVE ANOTHER VERSION, TRY AT YOUR OWN RISK**
 ## Result
 ![](https://github.com/codezhaba/VoimaWindowsTheme/blob/main/Preview/preview1.png?raw=true) 
 ![](https://github.com/codezhaba/VoimaWindowsTheme/blob/main/Preview/preview2.png?raw=true)  
@@ -42,4 +43,4 @@ Usb disconnect → /Sounds/block pace 2.wav
 
 
 
-***Sorry if there are any mistakes or inaccuracies in the text. I use a translator because my English is not very good. :)***
+***Sorry if there are any mistakes or inaccuracies in the text. I use a translator because my English is not very good and this is my first project on github. :)***

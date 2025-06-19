@@ -1,0 +1,103 @@
+; Copyright © Microsoft Corp.
+
+[Theme]
+; Windows - IDS_THEME_DISPLAYNAME_AERO
+DisplayName=Voima
+ThemeId={EAE2C155-B7DD-4892-A129-7DC56D0D3532}
+
+; Computer - SHIDI_SERVER
+[CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
+DefaultValue=%SystemRoot%\System32\imageres.dll,-109
+
+; UsersFiles - SHIDI_USERFILES
+[CLSID\{59031A47-3F72-44A7-89C5-5595FE6B30EE}\DefaultIcon]
+DefaultValue=%SystemRoot%\System32\imageres.dll,-123
+
+; Network - SHIDI_MYNETWORK
+[CLSID\{F02C1A0D-BE21-4350-88B0-7367FC96EF3C}\DefaultIcon]
+DefaultValue=%SystemRoot%\System32\imageres.dll,-25
+
+; Recycle Bin - SHIDI_RECYCLERFULL SHIDI_RECYCLER
+[CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon]
+Full=%SystemRoot%\System32\imageres.dll,-54
+Empty=%SystemRoot%\System32\imageres.dll,-55
+
+[Control Panel\Cursors]
+AppStarting=%SystemDrive%\VoimaWindowsTheme\Cursors\busy.ani
+Arrow=%SystemDrive%\VoimaWindowsTheme\Cursors\marin_cursor.cur
+Crosshair=
+Hand=%SystemDrive%\VoimaWindowsTheme\Cursors\hand.cur
+Help=%SystemRoot%\cursors\aero_helpsel.cur
+IBeam=%SystemDrive%\VoimaWindowsTheme\Cursors\i-beam.cur
+No=%SystemRoot%\cursors\aero_unavail.cur
+NWPen=%SystemRoot%\cursors\aero_pen.cur
+SizeAll=%SystemRoot%\cursors\aero_move.cur
+SizeNESW=%SystemRoot%\cursors\aero_nesw.cur
+SizeNS=%SystemRoot%\cursors\aero_ns.cur
+SizeNWSE=%SystemRoot%\cursors\aero_nwse.cur
+SizeWE=%SystemRoot%\cursors\aero_ew.cur
+UpArrow=%SystemRoot%\cursors\aero_up.cur
+Wait=%SystemDrive%\VoimaWindowsTheme\Cursors\busy.ani
+DefaultValue=VoimaCursorTheme
+
+[Control Panel\Desktop]
+Wallpaper=%SystemDrive%\VoimaWindowsTheme\Wallpapers\picture_wallpapers\VillageWallpaper_Day.png
+Pattern=
+MultimonBackgrounds=0
+PicturePosition=4
+WallpaperWriteTime=133946984306777227
+WindowsSpotlight=0
+
+[VisualStyles]
+Path=%SystemRoot%\Resources\Themes\Aero\Aero.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+AutoColorization=0
+ColorizationColor=0XC49FD121
+SystemMode=Dark
+AppMode=Light
+VisualStyleVersion=10
+
+[boot]
+SCRNSAVE.EXE=
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[Sounds]
+; IDS_SCHEME_DEFAULT
+SchemeName=VoimaSoundTheme
+
+[Sounds.A]
+[Sounds.W]
+SchemeName=+BB8EPg- +BEMEPAQ+BDsERwQwBD0EOARO-
+[Control Panel\Cursors.A]
+[Control Panel\Cursors.W]
+DefaultValue=+BB8EPg- +BEMEPAQ+BDsERwQwBD0EOARO-
+[Theme.A]
+[Theme.W]
+DisplayName=+BB0ENQRBBD4ERQRABDAEPQQ1BD0EPQQwBE8- +BEIENQQ8BDA-
+[AppEvents\Schemes\Apps\.Default\.Default]
+DefaultValue=%SystemDrive%\VoimaWindowsTheme\Sounds\bear.wav
+[AppEvents\Schemes\Apps\.Default\AppGPFault]
+DefaultValue=%SystemDrive%\VoimaWindowsTheme\Sounds\haze.wav
+[AppEvents\Schemes\Apps\.Default\CriticalBatteryAlarm]
+DefaultValue=%SystemDrive%\VoimaWindowsTheme\Sounds\haze.wav
+[AppEvents\Schemes\Apps\.Default\DeviceConnect]
+DefaultValue=%SystemDrive%\VoimaWindowsTheme\Sounds\block place.wav
+[AppEvents\Schemes\Apps\.Default\DeviceDisconnect]
+DefaultValue=%SystemDrive%\VoimaWindowsTheme\Sounds\block place 2.wav
+[AppEvents\Schemes\Apps\.Default\LowBatteryAlarm]
+DefaultValue=%SystemDrive%\VoimaWindowsTheme\Sounds\bear.wav
+[AppEvents\Schemes\Apps\.Default\Notification.Default]
+DefaultValue=%SystemDrive%\VoimaWindowsTheme\Sounds\camera.wav
+[AppEvents\Schemes\Apps\.Default\SystemAsterisk]
+DefaultValue=%SystemDrive%\VoimaWindowsTheme\Sounds\bear.wav
+[AppEvents\Schemes\Apps\.Default\SystemExclamation]
+DefaultValue=%SystemDrive%\VoimaWindowsTheme\Sounds\bear.wav
+[AppEvents\Schemes\Apps\.Default\SystemHand]
+DefaultValue=%SystemDrive%\VoimaWindowsTheme\Sounds\haze.wav
+[AppEvents\Schemes\Apps\.Default\SystemNotification]
+DefaultValue=%SystemDrive%\VoimaWindowsTheme\Sounds\bear.wav
+[AppEvents\Schemes\Apps\.Default\WindowsUAC]
+DefaultValue=%SystemDrive%\VoimaWindowsTheme\Sounds\pickup.wav

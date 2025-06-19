@@ -22,7 +22,7 @@ Usb disconnect → /Sounds/block pace 2.wav
 #### If you don't like the sounds, you can return the Windows sounds, go to "Settings - System - Sound - Sound Control Panel - Sounds" and in "Sound Scheme" set the value to "default"
 ---
 # Installation
-1 - Unzip the "VoimaWindowsTheme-main.zip" archive to the "C:\" drive (NOTE! THE Cursors AND Sounds FOLDERS MUST BE IN THE "C:\VoimaWindowsTheme-main" FOLDER)  
+1 - Unzip the archive to "C:\" (NOTE! The Cursor and Sound FOLDERS MUST BE IN "C:\VoimaWindowsTheme-main" AND THE MAIN FOLDER MUST BE NAMED "VoimaWindowsTheme-main". IF THE FOLDER IS NAMED OTHERWISE, RENAME IT TO "VoimaWindowsTheme-main".)  
 
 2 - Place the "Voima.theme" file in the "C:\Windows\Resources\Themes" folder  
 

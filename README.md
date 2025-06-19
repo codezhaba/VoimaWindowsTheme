@@ -33,7 +33,7 @@ Usb disconnect → /Sounds/block pace 2.wav
 
 
 # Additionally
-- If you don't like the default wallpaper, you can choose other wallpapers in the "wallpapers" folder (you can also put a [video wallpaper](https://www.google.com "Сайт Google"), but for that you need additional software like Wallpaper Engine).
+- If you don't like the default wallpaper, you can choose other wallpapers in the "wallpapers" folder (you can also put a [video wallpaper](https://github.com/codezhaba/VoimaWindowsTheme/releases/download/Voima/VoimaVideoWallpapers.zip), but for that you need additional software like Wallpaper Engine).
   
 - You can change the Hilight color to light green with the "HilightColor.reg" file. (Reboot required!)
 

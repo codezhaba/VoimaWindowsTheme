@@ -1,4 +1,7 @@
-# VoimaWindowsTheme
+# VoimaWindowsTheme  
+## Result
+![](https://github.com/codezhaba/VoimaWindowsTheme/blob/main/Preview/preview1.png?raw=true) 
+![](https://github.com/codezhaba/VoimaWindowsTheme/blob/main/Preview/preview2.png?raw=true)  
 ## Cursor
 ![](https://github.com/codezhaba/VoimaWindowsTheme/blob/main/Preview/cursor_preview.gif)
 
@@ -15,11 +18,7 @@ There are also night versions
 Usb connect → /Sounds/block pace.wav  
 Usb disconnect → /Sounds/block pace 2.wav  
 
-**If you don't like the sounds, you can return the Windows sounds, go to "Settings - System - Sound - Sound Control Panel - Sounds" and in "Sound Scheme" set the value to "default"**
-
-## Result
-![](https://github.com/codezhaba/VoimaWindowsTheme/blob/main/Preview/preview1.png?raw=true) 
-![](https://github.com/codezhaba/VoimaWindowsTheme/blob/main/Preview/preview2.png?raw=true)
+#### If you don't like the sounds, you can return the Windows sounds, go to "Settings - System - Sound - Sound Control Panel - Sounds" and in "Sound Scheme" set the value to "default"
 ---
 # Installation
 1 - Unzip the "VoimaWindowsTheme-main.zip" archive to the "C:\" drive (NOTE! THE Cursors AND Sounds FOLDERS MUST BE IN THE "C:\VoimaWindowsTheme-main" FOLDER)  

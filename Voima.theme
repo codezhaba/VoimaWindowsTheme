@@ -1,4 +1,4 @@
-; Copyright © Microsoft Corp.
+; Copyright Â© Microsoft Corp.
 
 [Theme]
 ; Windows - IDS_THEME_DISPLAYNAME_AERO
@@ -23,12 +23,12 @@ Full=%SystemRoot%\System32\imageres.dll,-54
 Empty=%SystemRoot%\System32\imageres.dll,-55
 
 [Control Panel\Cursors]
-AppStarting=%SystemDrive%\VoimaWindowsTheme\Cursors\busy.ani
-Arrow=%SystemDrive%\VoimaWindowsTheme\Cursors\marin_cursor.cur
+AppStarting=%SystemDrive%\VoimaWindowsTheme-main\Cursors\busy.ani
+Arrow=%SystemDrive%\VoimaWindowsTheme-main\Cursors\marin_cursor.cur
 Crosshair=
-Hand=%SystemDrive%\VoimaWindowsTheme\Cursors\hand.cur
+Hand=%SystemDrive%\VoimaWindowsTheme-main\Cursors\hand.cur
 Help=%SystemRoot%\cursors\aero_helpsel.cur
-IBeam=%SystemDrive%\VoimaWindowsTheme\Cursors\i-beam.cur
+IBeam=%SystemDrive%\VoimaWindowsTheme-main\Cursors\i-beam.cur
 No=%SystemRoot%\cursors\aero_unavail.cur
 NWPen=%SystemRoot%\cursors\aero_pen.cur
 SizeAll=%SystemRoot%\cursors\aero_move.cur
@@ -37,11 +37,11 @@ SizeNS=%SystemRoot%\cursors\aero_ns.cur
 SizeNWSE=%SystemRoot%\cursors\aero_nwse.cur
 SizeWE=%SystemRoot%\cursors\aero_ew.cur
 UpArrow=%SystemRoot%\cursors\aero_up.cur
-Wait=%SystemDrive%\VoimaWindowsTheme\Cursors\busy.ani
+Wait=%SystemDrive%\VoimaWindowsTheme-main\Cursors\busy.ani
 DefaultValue=VoimaCursorTheme
 
 [Control Panel\Desktop]
-Wallpaper=%SystemDrive%\VoimaWindowsTheme\Wallpapers\picture_wallpapers\VillageWallpaper_Day.png
+Wallpaper=%SystemDrive%\VoimaWindowsTheme-main\Wallpapers\picture_wallpapers\VillageWallpaper_Day.png
 Pattern=
 MultimonBackgrounds=0
 PicturePosition=4
@@ -78,26 +78,26 @@ DefaultValue=+BB8EPg- +BEMEPAQ+BDsERwQwBD0EOARO-
 [Theme.W]
 DisplayName=+BB0ENQRBBD4ERQRABDAEPQQ1BD0EPQQwBE8- +BEIENQQ8BDA-
 [AppEvents\Schemes\Apps\.Default\.Default]
-DefaultValue=%SystemDrive%\VoimaWindowsTheme\Sounds\bear.wav
+DefaultValue=%SystemDrive%\VoimaWindowsTheme-main\Sounds\bear.wav
 [AppEvents\Schemes\Apps\.Default\AppGPFault]
-DefaultValue=%SystemDrive%\VoimaWindowsTheme\Sounds\haze.wav
+DefaultValue=%SystemDrive%\VoimaWindowsTheme-main\Sounds\haze.wav
 [AppEvents\Schemes\Apps\.Default\CriticalBatteryAlarm]
-DefaultValue=%SystemDrive%\VoimaWindowsTheme\Sounds\haze.wav
+DefaultValue=%SystemDrive%\VoimaWindowsTheme-main\Sounds\haze.wav
 [AppEvents\Schemes\Apps\.Default\DeviceConnect]
-DefaultValue=%SystemDrive%\VoimaWindowsTheme\Sounds\block place.wav
+DefaultValue=%SystemDrive%\VoimaWindowsTheme-main\Sounds\block place.wav
 [AppEvents\Schemes\Apps\.Default\DeviceDisconnect]
-DefaultValue=%SystemDrive%\VoimaWindowsTheme\Sounds\block place 2.wav
+DefaultValue=%SystemDrive%\VoimaWindowsTheme-main\Sounds\block place 2.wav
 [AppEvents\Schemes\Apps\.Default\LowBatteryAlarm]
-DefaultValue=%SystemDrive%\VoimaWindowsTheme\Sounds\bear.wav
+DefaultValue=%SystemDrive%\VoimaWindowsTheme-main\Sounds\bear.wav
 [AppEvents\Schemes\Apps\.Default\Notification.Default]
-DefaultValue=%SystemDrive%\VoimaWindowsTheme\Sounds\camera.wav
+DefaultValue=%SystemDrive%\VoimaWindowsTheme-main\Sounds\camera.wav
 [AppEvents\Schemes\Apps\.Default\SystemAsterisk]
-DefaultValue=%SystemDrive%\VoimaWindowsTheme\Sounds\bear.wav
+DefaultValue=%SystemDrive%\VoimaWindowsTheme-main\Sounds\bear.wav
 [AppEvents\Schemes\Apps\.Default\SystemExclamation]
-DefaultValue=%SystemDrive%\VoimaWindowsTheme\Sounds\bear.wav
+DefaultValue=%SystemDrive%\VoimaWindowsTheme-main\Sounds\bear.wav
 [AppEvents\Schemes\Apps\.Default\SystemHand]
-DefaultValue=%SystemDrive%\VoimaWindowsTheme\Sounds\haze.wav
+DefaultValue=%SystemDrive%\VoimaWindowsTheme-main\Sounds\haze.wav
 [AppEvents\Schemes\Apps\.Default\SystemNotification]
-DefaultValue=%SystemDrive%\VoimaWindowsTheme\Sounds\bear.wav
+DefaultValue=%SystemDrive%\VoimaWindowsTheme-main\Sounds\bear.wav
 [AppEvents\Schemes\Apps\.Default\WindowsUAC]
-DefaultValue=%SystemDrive%\VoimaWindowsTheme\Sounds\pickup.wav
+DefaultValue=%SystemDrive%\VoimaWindowsTheme-main\Sounds\pickup.wav

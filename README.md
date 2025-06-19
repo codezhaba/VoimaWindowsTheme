@@ -1,5 +1,12 @@
 # VoimaWindowsTheme
-
+ATTENTION! THE FOLLOWING SYSTEM SOUNDS WILL BE CHANGED:  
+![](https://github.com/codezhaba/VoimaWindowsTheme/blob/main/Preview/Error.png) → /Sounds/haze.wav  
+![](https://github.com/codezhaba/VoimaWindowsTheme/blob/main/Preview/Warning.png)
+![](https://github.com/codezhaba/VoimaWindowsTheme/blob/main/Preview/Info.png) → /Sounds/bear.wav  
+![](https://github.com/codezhaba/VoimaWindowsTheme/blob/main/Preview/Notification.png) → /Sounds/camera.wav  
+![](https://github.com/codezhaba/VoimaWindowsTheme/blob/main/Preview/Administrator.png) → /Sounds/pickup.wav  
+Usb connect → /Sounds/block pace.wav  
+Usb disconnect → /Sounds/block pace 2.wav  
 
 ## Cursor
 ![](https://github.com/codezhaba/VoimaWindowsTheme/blob/main/Preview/cursor_preview.gif)

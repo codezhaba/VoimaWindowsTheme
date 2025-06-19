@@ -1,5 +1,12 @@
 # VoimaWindowsTheme
-ATTENTION! THE FOLLOWING SYSTEM SOUNDS WILL BE CHANGED:  
+## Cursor
+![](https://github.com/codezhaba/VoimaWindowsTheme/blob/main/Preview/cursor_preview.gif)
+
+## Wallpapers
+![](https://github.com/codezhaba/VoimaWindowsTheme/blob/main/Preview/WallpapersPreview.png)
+There are also night versions
+
+## Sounds
 ![](https://github.com/codezhaba/VoimaWindowsTheme/blob/main/Preview/Error.png) → /Sounds/haze.wav  
 ![](https://github.com/codezhaba/VoimaWindowsTheme/blob/main/Preview/Warning.png)
 ![](https://github.com/codezhaba/VoimaWindowsTheme/blob/main/Preview/Info.png) → /Sounds/bear.wav  
@@ -8,12 +15,7 @@ ATTENTION! THE FOLLOWING SYSTEM SOUNDS WILL BE CHANGED:
 Usb connect → /Sounds/block pace.wav  
 Usb disconnect → /Sounds/block pace 2.wav  
 
-## Cursor
-![](https://github.com/codezhaba/VoimaWindowsTheme/blob/main/Preview/cursor_preview.gif)
-
-## Wallpapers
-![](https://github.com/codezhaba/VoimaWindowsTheme/blob/main/Preview/WallpapersPreview.png)
-There are also night versions
+**If you don't like the sounds, you can return the Windows sounds, go to "Settings - System - Sound - Sound Control Panel - Sounds" and in "Sound Scheme" set the value to "default"**
 
 ## Result
 ![](https://github.com/codezhaba/VoimaWindowsTheme/blob/main/Preview/preview1.png?raw=true) 
@@ -37,7 +39,7 @@ There are also night versions
 
 - If you want to get 100% similarity:
   - “Settings - Personalization - Colors” and click the “Window Titles and Window Borders” check box
-  - “Settings - Devices - Mouse - Mouse - Advanced Mouse Settings - Cursor” and click the “Cursor Shadow” checkbox.
+  - “Settings - Devices - Mouse - Advanced Mouse Settings - Cursor” and click the “Cursor Shadow” checkbox.
 
 
 
